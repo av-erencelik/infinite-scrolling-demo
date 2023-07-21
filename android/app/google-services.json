@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697686198675",
+    "project_id": "makale-infinite",
+    "storage_bucket": "makale-infinite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697686198675:android:c04884a79e5945f156c066",
+        "android_client_info": {
+          "package_name": "com.example.infinite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697686198675-eu9m8j2kdsmbv2nm4q1avldn6punln9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATaA1cerapV8GyoUwxjF2YIvgMKUps5T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697686198675-eu9m8j2kdsmbv2nm4q1avldn6punln9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
